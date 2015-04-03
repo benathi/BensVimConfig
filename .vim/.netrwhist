@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ben/Development/GitRepositories/brown-cluster/input-c50-p1.out'
+let g:netrw_dirhist_2='/Users/ben/Google Drive/CS5670/Homework/HW1/ComputerVisionPA_1/src'
+let g:netrw_dirhist_3='/Users/ben/Development/GitRepositories/simple-aws-gpu-setup/bootstrap'
+let g:netrw_dirhist_4='/Users/ben/Development/CodingInterview/Cpp'
