@@ -1,7 +1,9 @@
 MyVimrc
 =======
 
-My configuration for vim. This includes
+My configuration for vim. I collect this over the last few years of using vim from various online sources.
+
+This includes
 
 1. autotab
 2. tab lock like emacs
@@ -12,3 +14,7 @@ Instructions
   2. 
     cp .vimrc ~/.vimrc  
   3. cp .vim ~/
+
+This configuration works very well for most languages except python. 
+TODO
+  - need to convert tab to space tab
