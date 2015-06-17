@@ -10,10 +10,12 @@ This includes
 3. latex configs
 
 Instructions
+Note: make sure to backup your ~/.vimrc and ~/.vim if you might need to revert to your configs.
+
   1. cd into the directory MyVimConfigs
   2. 
     cp .vimrc ~/.vimrc  
-  3. cp .vim ~/
+  3. cp -r .vim ~/
 
 This configuration works very well for most languages except python. 
 TODO
